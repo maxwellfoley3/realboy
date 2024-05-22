@@ -136,7 +136,7 @@ const CSVSPage: React.FC<PageProps> = () => {
   )
 }
 
-export const Head: HeadFC = () => <title>Network Solipsism</title>
+export const Head: HeadFC = () => <title>X app memetico-political analysis May 2024</title>
 
 export default CSVSPage
 
